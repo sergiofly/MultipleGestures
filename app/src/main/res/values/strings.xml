@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleGestures</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gestureMessageString">Let us do some gestures</string>
+</resources>
